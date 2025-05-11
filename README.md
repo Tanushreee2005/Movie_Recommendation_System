@@ -1,2 +1,2 @@
 # Movie_Recommendation_System
-A movie recommendation system is a software tool designed to suggest films to users based on their preferences, behaviors, or similarities with other users. These systems aim to enhance the user experience by helping individuals discover movies they are likely to enjoy without having to search manually.
+This project is a movie recommendation system built with Streamlit and powered by a machine learning model. It recommends movies based on a selected title using cosine similarity and displays movie posters fetched from the TMDB API.
